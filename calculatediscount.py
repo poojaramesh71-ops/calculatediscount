@@ -20,4 +20,5 @@ price = float(input("Enter product price: "))
 customer_type = input("Enter customer type (Regular / Premium / Employee): ")
 
 result = calculate_discount(price, customer_type)
+
 print("Final Price after Discount:", result)

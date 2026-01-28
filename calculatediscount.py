@@ -23,3 +23,4 @@ result = calculate_discount(price, customer_type)
 
 print("Final Price after Discount:", result)
 
+
